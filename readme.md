@@ -1,4 +1,4 @@
-#xlsx2json
+# xlsx2json
 Convert xlsx files to json, no more no less
 
 ## Install
